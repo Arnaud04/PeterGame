@@ -4,8 +4,7 @@ Si tu télécharge les fichier sous ubuntu tu auras besoin de 2 bibliothèques :
   ->sdl/sdl.h
   ->sdl/sdl_mixer.h
   celle si sont installables directement depuis le terminal
- Si tu es sous codeBloc alors il faut télécharger les biliothèque et les inclure dans le projet notament sdl_mixer.h
- l'autre est déjà incluse il me semble.
+ Si tu es sous codeBloc alors il faut télécharger les biliothèque et les inclure dans le dossier ou il y a le projet.
 
 Il y a plusieurs bug a corriger:
   ->mettre des varaible au lieu de valeur numerique
